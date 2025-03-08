@@ -1,0 +1,11 @@
+{
+  "name": "meet-pratoosh",
+  "version": "1.0.0",
+  "description": "A terminal based introduction for Pratoosh Garg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratoosh",
+  "license": "ISC"
+}
