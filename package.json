@@ -1,6 +1,6 @@
 {
   "name": "meet-pratoosh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A terminal based introduction for Pratoosh Garg",
   "main": "index.js",
   "bin": {
