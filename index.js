@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 function displayResume() {
     // Personal details
     const details = {
